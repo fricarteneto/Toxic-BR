@@ -1,0 +1,7 @@
+pandas
+numpy
+enelvo==0.15
+nltk==3.6.7
+networkx==3.2
+scikit-learn==1.1.2
+gensim==4.2.0
